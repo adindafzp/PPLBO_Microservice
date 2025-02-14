@@ -1,0 +1,3 @@
+inventory-service/docker/mysql/data/
+*.log
+*.sock
